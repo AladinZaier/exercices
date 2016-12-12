@@ -1,1 +1,4 @@
 exemple de component utils pour mes applications seniorhome
+addition = +;
+multiplication = *;
+
